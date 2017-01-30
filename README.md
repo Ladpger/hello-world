@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+just my first repository.
+Hi humans, I like coding.
+ 
